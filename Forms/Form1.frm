@@ -1,13 +1,13 @@
 VERSION 5.00
 Begin VB.Form Form1 
-   Caption         =   "Form1"
-   ClientHeight    =   3135
+   Caption         =   "Virtual String"
+   ClientHeight    =   4455
    ClientLeft      =   120
    ClientTop       =   465
-   ClientWidth     =   4695
+   ClientWidth     =   7455
    LinkTopic       =   "Form1"
-   ScaleHeight     =   3135
-   ScaleWidth      =   4695
+   ScaleHeight     =   4455
+   ScaleWidth      =   7455
    StartUpPosition =   3  'Windows-Standard
    Begin VB.Timer Timer1 
       Enabled         =   0   'False
@@ -15,13 +15,13 @@ Begin VB.Form Form1
       Top             =   0
    End
    Begin VB.PictureBox PbDrawString 
-      Height          =   2415
+      Height          =   3735
       Left            =   120
-      ScaleHeight     =   2355
-      ScaleWidth      =   4395
+      ScaleHeight     =   3675
+      ScaleWidth      =   7155
       TabIndex        =   1
       Top             =   600
-      Width           =   4455
+      Width           =   7215
    End
    Begin VB.CommandButton BtnPick 
       Caption         =   "Pick"
