@@ -4,6 +4,7 @@ Form=Forms\Form1.frm
 Module=MNew; Modules\MNew.bas
 Class=VirtualString; Classes\VirtualString.cls
 Module=MBuffer; Modules\MBuffer.bas
+ResFile32="Resources\MyRes.RES"
 IconForm="Form1"
 Startup="Form1"
 ExeName32="VirtualString.exe"
