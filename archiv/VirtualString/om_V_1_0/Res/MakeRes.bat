@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft Visual Studio\VB98\Wizards\rc.exe" "C:\Users\om\Documents\VSProjekte\VB6\VB60To_dotNETClasses\PlaySound_WinMM\VirtualString\om_V_1_0\Res\RessourceS.rc" >>log.txt
